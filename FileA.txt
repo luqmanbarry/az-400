@@ -1,1 +1,3 @@
-Integration with Azure Boards
+Integration with Azure Boards.
+Azure Boards with Github Integration complete.
+Fixed AB#2 will close the task now.
